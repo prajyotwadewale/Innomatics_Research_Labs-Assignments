@@ -1,0 +1,18 @@
+# Models
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint*/
+token_clf_model/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+venv/
+.env
